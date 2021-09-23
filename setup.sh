@@ -17,6 +17,8 @@ rm -f /usr/src/Python-3.7.11.tgz
 ln -s /usr/local/bin/python3.7 /usr/bin/python3.7
 ln -s /usr/local/bin/pip3.7 /usr/bin/pip3.7
 
+cd /root/
+
 
 clear 
 
